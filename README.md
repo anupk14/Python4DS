@@ -1,2 +1,2 @@
 # Python4DS
-Python code for data science
+This repository is created to store Python code for data science exercises
